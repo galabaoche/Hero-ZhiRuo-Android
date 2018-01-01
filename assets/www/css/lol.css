@@ -1,0 +1,232 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html,body{
+	width: 100%;
+	font-family: "microsoft yahei";
+	overflow: hidden;
+}
+body {
+	background: linear-gradient(#e8d6bc, #e9d29e);
+	font-family: "microsoft yahei";
+}
+@font-face {
+	font-family: GameFont;
+	src: url("../fonts/mplus-1m-regular.ttf");
+}
+.content{
+	height: 100%;
+	background-image: url(../server/bg.gif);
+}
+.bgPng,.penPng{width: 100%;}
+.penPng{
+	position: absolute;
+	left: 0;top: 0;
+}
+.content,.maintenance,.base{
+	width: 100%;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	max-width: 1920px;
+	min-width: 1024px;
+	margin: 0 auto;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+@media screen and (min-width:1359px){
+     .base{
+		height: 100%;
+	}
+}
+
+.maintenance{
+	height: 100%;
+}
+.versions{
+	position: relative;
+}
+@keyframes fade {
+	0% {
+		opacity: 1;
+	}
+	85% {
+		opacity: 1;
+	}
+	100% {
+		opacity: 0;
+	}
+}
+
+@keyframes drop {
+	0% {
+		-webkit-transform: translate(0px, -50px);
+	}
+	100% {
+		-webkit-transform: translate(0px, 800px);
+	}
+}
+
+@keyframes clockwiseSpin {
+	0% {
+		-webkit-transform: rotate(-50deg);
+	}
+	100% {
+		-webkit-transform: rotate(50deg);
+	}
+}
+.release{
+	 position: absolute;
+	 width: 100%;
+	 font-size: 24px;
+	 top: 22vw;
+	 text-align: center;
+	 font-weight: 500;
+	padding-left: 20%;
+ }
+.release2{
+	position: absolute;
+	width: 100%;
+	font-size: 48px;
+	top: 41vw;
+	text-align: center;
+	font-weight: 500;
+	color: #653E03;
+	padding-left: 29%;
+}
+.release span{
+	color: #C84E31;
+}
+
+.release2 span{
+	color: #C84E31;
+}
+.textHintb{
+	width:100%;
+    margin: 0 auto;
+    padding-top: 8vw;
+    position: relative;
+	padding-left: 14%;
+}
+.maintenanceImg{
+	width: 26%;
+	padding-left: 17%;
+}
+.regret,.timeDate{
+	font-size: 24px;
+	width: 90%;
+	margin: 0 auto;
+}
+.regret{	
+	margin-top: 8%;
+	color: #653E03;
+}
+.timeDate{
+	padding-top: 2%;
+	font-weight: 400;
+	padding-left: 5%;
+}
+.timeDate span{
+	color: #F87139;
+}
+.gear{
+	width: 33%;
+	margin-top: 7%;
+	position: absolute;
+	bottom: 0px;
+	left: 28%;
+}
+.ci_bg{
+	width: 100%;
+}
+.ci_0,.ci_1,.ci_2,.ci_3,.ci_4,.ci_5{
+	position: absolute;
+}
+.ci_0{
+	width: 11%;
+	top:10%;
+	left: 0;
+	animation: spin-forever 3s infinite linear;
+	-webkit-animation: spin-forever 3s infinite linear;
+}
+.ci_1{
+	width: 18%;
+	left:19%;
+	top: 4%;
+	animation:foreward  4s infinite linear;
+	-webkit-animation: foreward 4s infinite linear;
+
+}
+.ci_2{
+	width: 9%;
+	left: 40%;
+	top: 50%;
+	animation:spin-forever  3s infinite linear;
+	-webkit-animation: spin-forever 3s infinite linear;
+}
+.ci_3{
+	width:13%;
+	right: 24%;
+	top: 28%;
+	animation:foreward  3s infinite linear;
+	-webkit-animation: foreward 3s infinite linear;
+}
+.ci_4{
+	width: 9%;
+	right: 29%;
+	top: 65%;
+	animation:spin-forever  3s infinite linear;
+	-webkit-animation: spin-forever 3s infinite linear;
+}
+.ci_5{
+	width: 9%;
+	right: -5%;
+	top: 20%;
+	animation:spin-forever  3s infinite linear;
+	-webkit-animation: spin-forever 3s infinite linear;
+}
+.liantiao{
+	width: 60%;
+	position: absolute;
+	left: 17.5%;
+	top: 2%;
+}
+
+/*齿轮动画*/
+
+@keyframes spin-forever {
+	from {
+		transform: rotateZ(0deg);
+	}
+	to {
+		transform: rotateZ(360deg);
+	}
+}
+
+@-webkit-keyframes spin-forever {
+	from {
+		transform: rotateZ(0deg);
+	}
+	to {
+		transform: rotateZ(360deg);
+	}
+}
+@keyframes foreward {
+	from {
+		transform: rotateZ(0deg);
+	}
+	to {
+		transform: rotateZ(-360deg);
+	}
+}
+
+@-webkit-keyframes foreward {
+	from {
+		transform: rotateZ(0deg);
+	}
+	to {
+		transform: rotateZ(-360deg);
+	}
+}

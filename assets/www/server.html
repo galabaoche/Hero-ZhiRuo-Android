@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<title>系统维护中</title>
+		<link rel="stylesheet" href="css/lol.css" />
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script>
+			var LocalData=window.localStorage;var SessionData=window.sessionStorage;
+		</script>
+	</head>
+
+	<body>
+		<div class="base">
+			<img class="bgPng" src="server/bg.png" alt="" />
+			<img class="penPng" src="server/bg-ren.png" alt="" />
+			<div class="maintenance">
+				<div class="textHintb" style="font-family: GameFont;font-weight: bold">
+					<img class="maintenanceImg" src="server/text-fwqwh.png" alt="" />
+					<p class="regret">　打造更好的武林幻境，服务器正在维护调整！</p>
+					<p class="timeDate"><b>预计时间：</b><span id="upt" style="font-weight: bold"></span></p>
+					<script>
+						document.getElementById('upt').innerHTML=SessionData.UpdateTime;
+					</script>
+				</div>
+				<div class="gear">
+						<img class="ci_0"  src="server/cl-2.png" alt="" />
+						<img class="ci_1" src="server/cl-0.png" alt="" />
+						<img class="ci_2" src="server/cl-3.png" alt="" />
+						<img class="ci_3" src="server/cl-00.png" alt="" />
+						<img class="ci_4" src="server/cl-3.png" alt="" />
+						<img class="ci_5" src="server/cl-3.png" alt="" />
+						<img class="liantiao" src="server/liant.png" alt="" />
+						<img class="ci_bg"  src="server/clbg.png" alt="" />
+						
+					</div>
+			</div>
+
+		</div>
+	</body>
+
+</html>

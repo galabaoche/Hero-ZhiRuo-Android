@@ -1335,8 +1335,8 @@ function Graphics() {
  *                 'canvas', 'webgl', or 'auto'.
  */
 Graphics.initialize = function(width, height, type) {
-    this._width = width || 800;
-    this._height = height || 600;
+    this._width = width || 960 ;//800
+    this._height = height || 541;//600
     this._rendererType = type || 'auto';
     this._boxWidth = this._width;
     this._boxHeight = this._height;

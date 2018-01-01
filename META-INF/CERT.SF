@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA1-Digest-Manifest: r96ySen9yl+6oPTUNeh32XewoHc=
+SHA1-Digest-Manifest: ALQkirqQ8e6cS0ScuY5iXaIUkiI=
 
 Name: assets/www/img/animations/168_koh.rpgmvp
 SHA1-Digest: XFU1ncHeFB0oxnAYlwfaZYoY9oE=
@@ -233,6 +233,9 @@ SHA1-Digest: 1exnTMgLgWEAQNMHXzDcfcu4Rvo=
 Name: assets/www/img/parallaxes/!BG_K1_1_xiao.rpgmvp
 SHA1-Digest: 4xQ5W3ovj2Es8LBY84Bqp9ApWuw=
 
+Name: assets/www/img/pictures/Actor_48.rpgmvp
+SHA1-Digest: kIShaJ+H1LFtH4IU1Yq0jZOZ5K8=
+
 Name: README.md
 SHA1-Digest: z3u8uDMxksktKEZlYH78hFzMZ+o=
 
@@ -250,6 +253,9 @@ SHA1-Digest: JbHPsMtAPZkFsq3q6M3S8MmeEq4=
 
 Name: assets/www/img/sv_enemies/281_NPC.rpgmvp
 SHA1-Digest: xwQeSYe7kwWo+WuO6GkRl47pidc=
+
+Name: assets/www/server/text-fwqwh.png
+SHA1-Digest: bI8szksxiZDlx6war2417zDa5WQ=
 
 Name: assets/www/img/parallaxes/!BG_F2_2_xiao.rpgmvp
 SHA1-Digest: cTrrG9d4gWlqCKShPiwHllE04RM=
@@ -294,7 +300,7 @@ Name: assets/www/img/sv_enemies/450_NPC.rpgmvp
 SHA1-Digest: vPPBvx3iHgDrBVg6UWSWCLPQrWE=
 
 Name: assets/www/img/characters/$BUD_B8_Xiao.rpgmvp
-SHA1-Digest: vfjLR2eeNQnJ2k8tq6UB9YRPWOY=
+SHA1-Digest: zbv2vSbVFocLm+G0nxSuM7prU4M=
 
 Name: assets/www/audio/se/sheny_2.m4a
 SHA1-Digest: 2WwJxAar7jD+4cZ/3qk6I4owXrg=
@@ -348,7 +354,7 @@ Name: assets/www/img/parallaxes/!BG_G1_1_xiao.rpgmvp
 SHA1-Digest: 2wrUKcdLR3uue9hnsLgWdn3a2Y8=
 
 Name: assets/www/index.html
-SHA1-Digest: X+MSorwUX5ErTFGOJ0n2gj2EoWk=
+SHA1-Digest: De83+UaLa+vJPRPLHliAxsrRw9Y=
 
 Name: assets/www/img/parallaxes/!BG_G9_1_xiao_01.rpgmvp
 SHA1-Digest: VR8gvNO4Hz9T47wVEaIc0ziv2MA=
@@ -378,7 +384,7 @@ Name: assets/www/img/characters/$Ac_35%(8 6).rpgmvp
 SHA1-Digest: wqAgBqHHVv1IBl4zDQDxw2hV0JQ=
 
 Name: assets/www/img/characters/$BUD_A6_Xiao.rpgmvp
-SHA1-Digest: T/MRbCEM6J00Tk9HXrT2WEBgLUo=
+SHA1-Digest: zJHuSOYjgDNgQsOZeEI2KRU+Bgw=
 
 Name: assets/www/img/characters/$NPC_C20_Xiao.rpgmvp
 SHA1-Digest: +rbgDdyhNelhI4wB65xl78FO/N8=
@@ -623,6 +629,9 @@ SHA1-Digest: JJgJxRZL65UWe0wQ2vNwjAo87wU=
 Name: res/drawable-xxxhdpi-v4/ic_menu_share_holo_light.png
 SHA1-Digest: L7J7lvwJjzZcwif1IS+Rgy9RspA=
 
+Name: assets/www/css/lol.css
+SHA1-Digest: cgu2ADZI8v5eSFSi0A8T76cdDHw=
+
 Name: assets/www/img/parallaxes/!BG_F3_5_xiao.rpgmvp
 SHA1-Digest: LJ/CQ6oE5k+q/NBxsE3T6d3JW/A=
 
@@ -778,6 +787,9 @@ SHA1-Digest: qn/tuu13LPLcsIDLXxZYMp8US44=
 
 Name: assets/www/img/characters/$NPC_J9_Xiao.rpgmvp
 SHA1-Digest: KbgPpWRLmnaXrX55+0cayZvrWLg=
+
+Name: assets/www/img/sv_actors/Ac_62.rpgmvp
+SHA1-Digest: MqrLFC2vOa6iOKiSpDUJhwIry3M=
 
 Name: assets/www/img/parallaxes/!BG_E1_6_xiao.rpgmvp
 SHA1-Digest: O2/bXbIQQBYilSlxaOs9LQordWw=
@@ -948,7 +960,7 @@ Name: assets/www/js/plugins/YEP_MessageCore.js
 SHA1-Digest: k7145bCPwUc0AHGwKETqSjdSTng=
 
 Name: assets/www/img/system/IconSet.rpgmvp
-SHA1-Digest: lNY7POl1gS4Xc8nXe+LDczRdov0=
+SHA1-Digest: Y0WQIsI01decUPZkd9ak1SYHmT4=
 
 Name: assets/www/img/sv_enemies/296_NPC.rpgmvp
 SHA1-Digest: KDl8pCVhj2y8q+egMD/9LY7ich0=
@@ -967,6 +979,9 @@ SHA1-Digest: gVfCFjWIEIQCAOQBxALlkypUbfs=
 
 Name: assets/www/img/sv_enemies/225_NPC.rpgmvp
 SHA1-Digest: OzQSXykiU5ET1iurFa9hsJQXtLE=
+
+Name: assets/www/img/characters/$Ac_67%(8 6).rpgmvp
+SHA1-Digest: g2rTMjsxCkeZ+mXbSqIFeZdwcCs=
 
 Name: assets/www/img/sv_actors/Ac_02.rpgmvp
 SHA1-Digest: PgUSE4O7Lt4346RDroxj2BuSwdw=
@@ -1036,6 +1051,9 @@ SHA1-Digest: Ty3Ve/VME++cnCnQbDXeO2jSBME=
 
 Name: assets/www/img/parallaxes/!BG_J2_11_xiao.rpgmvp
 SHA1-Digest: GrbxRZ9nRJx7R3Gv/FJ+5GS3b0M=
+
+Name: assets/www/server/clbg.png
+SHA1-Digest: 9RFdHxnXUjairXLtZxWlBnCrSTI=
 
 Name: assets/www/img/sv_enemies/124_NPC.rpgmvp
 SHA1-Digest: /y6TrPV5hwsp5C3l4UubeuKWLVQ=
@@ -1131,7 +1149,7 @@ Name: assets/www/img/parallaxes/!BG_K4_4_xiao.rpgmvp
 SHA1-Digest: Q3hfVhaPQ76vq/i1Akmk2dp0G8A=
 
 Name: assets/www/js/plugins/MOG_TitleSplashScreen.js
-SHA1-Digest: D5ZlmYP3jVRMFJA0h9TNDDBZHPU=
+SHA1-Digest: KWDZWt86R9ICcGFUHd3Dy/EKzOM=
 
 Name: assets/www/audio/se/57_Skill22.m4a
 SHA1-Digest: mPlH00JoQIjN/27KZnRsEfAEsh0=
@@ -1394,6 +1412,9 @@ SHA1-Digest: Ynpadr4PgY9Hxce5OqlG8sUtfRc=
 Name: assets/www/audio/se/tanzhishentong.m4a
 SHA1-Digest: Fs7ubklxUz5velVC4ja1aRuYegA=
 
+Name: assets/www/img/pictures/Actor_47.rpgmvp
+SHA1-Digest: UeBZP35qgn18/3MTmam1mvPacXI=
+
 Name: assets/www/img/characters/$NPC_B43_Xiao.rpgmvp
 SHA1-Digest: kRlmx72Pu4kZGh5JtCBmbTrtkFk=
 
@@ -1515,7 +1536,7 @@ Name: assets/www/img/sv_enemies/427_NPC.rpgmvp
 SHA1-Digest: NcBPy4O2WzyjGbnIdyGqslzncKY=
 
 Name: assets/www/js/jquery.js
-SHA1-Digest: MTC92RcIdKdVbq8oKziPatowaR8=
+SHA1-Digest: EZw/hLlew4Fh3RkxAFcm//nFRo4=
 
 Name: assets/www/img/titles1/Layer1_19.rpgmvp
 SHA1-Digest: UThKeruT3yWBVnb5x2c7WGzJkpg=
@@ -1621,6 +1642,9 @@ SHA1-Digest: OAN8ewm1zeQHwUUVgCewyYIoJuc=
 
 Name: assets/www/img/characters/$NPC_J3_Xiao.rpgmvp
 SHA1-Digest: bRzQ76c/Guuz5qma8Bcb4zUZaeM=
+
+Name: assets/www/server.html
+SHA1-Digest: s1X+TJDFgVKsWDixCXlUQz4bXeg=
 
 Name: assets/www/img/sv_enemies/269_NPC.rpgmvp
 SHA1-Digest: kDIWDs8wSvNNZlPMSudIgZkDxaI=
@@ -1844,6 +1868,9 @@ SHA1-Digest: ROqxXU9bk3F9p7rO7WtQoNbMX90=
 Name: assets/www/img/battlehud/Layout_Item.rpgmvp
 SHA1-Digest: v+jco6QbWguA4/O4BBmZTEsisPY=
 
+Name: assets/www/update.html
+SHA1-Digest: uMIO22qnAbIi6Vtfu03Iap1qcyA=
+
 Name: assets/www/audio/se/72_Heal07.m4a
 SHA1-Digest: 8OpfuGxVmMVqDqX9yi88XJSwkp8=
 
@@ -2033,6 +2060,9 @@ SHA1-Digest: Od/dNupKxLp3YdKwMLsvo7C8Xe0=
 Name: assets/www/img/sv_enemies/342_NPC.rpgmvp
 SHA1-Digest: ZSAClFrpiXYXXCIKsezqv3qDERw=
 
+Name: assets/www/server/cl-3.png
+SHA1-Digest: yaI3BIDQ5bCALJiEKg1a0+z/GfM=
+
 Name: assets/www/js/plugins/MOG_TreasurePopup.js
 SHA1-Digest: ZxK0J3JFY65zUWpa5Tc1VPG+rOU=
 
@@ -2084,6 +2114,9 @@ SHA1-Digest: POrbkHBl2hpzEVy4Q352oUUBuYQ=
 Name: assets/www/audio/se/bixiejianfa.m4a
 SHA1-Digest: o2idF0qNc4LjgZIyI85GGSDaC7c=
 
+Name: assets/www/img/characters/$Ac_61%(8 6).rpgmvp
+SHA1-Digest: r81eX4cidkl+It8WehsWpdCbsbk=
+
 Name: assets/www/img/characters/$NPC_F3_Xiao.rpgmvp
 SHA1-Digest: h3nJYkqvJx1MhvZNIr8vtcbfrrk=
 
@@ -2104,6 +2137,9 @@ SHA1-Digest: IqnSixcPkvh/ujzcC9m14ySp0NY=
 
 Name: assets/www/img/pictures/V_4b.rpgmvp
 SHA1-Digest: pu2jVocZBc0Q5TSu46ZDA+O5d3M=
+
+Name: assets/www/img/characters/$NPC_AC2_Xiao.rpgmvp
+SHA1-Digest: niCavnKOdwYgUU0T0LDAsyvMxyI=
 
 Name: assets/www/img/parallaxes/!BG_G7_2_xiao.rpgmvp
 SHA1-Digest: MNGYGnhCknXSGmJLRYXQ3dPQpIw=
@@ -2144,6 +2180,9 @@ SHA1-Digest: AcjtuF9MDvUo6/wLZYMVFVqqC5E=
 Name: assets/www/img/animations/45_gm.rpgmvp
 SHA1-Digest: L5Y8ynTOygfCd/qLiQxWxOmE1pE=
 
+Name: assets/www/img/sv_actors/Ac_64.rpgmvp
+SHA1-Digest: gGn1Hpl/sCM9zQcJSYbvf+3Y3MU=
+
 Name: assets/www/audio/se/18_Sand.m4a
 SHA1-Digest: gPlgtBOQZUG/WrJNoR9hx+msmmA=
 
@@ -2175,7 +2214,7 @@ Name: assets/www/img/sv_enemies/309_NPC.rpgmvp
 SHA1-Digest: Lb89+tM1gzYFZBDMwHYRizqb3d8=
 
 Name: assets/www/js/rpg_core.js
-SHA1-Digest: +RidDfpneIVO/gYZvfY2pJSZWRw=
+SHA1-Digest: 1BAypklm+ft9V8DVecKdchTNk1Q=
 
 Name: assets/www/js/plugins/MOG_ComboCounter.js
 SHA1-Digest: jsVHjr4WCfcyz1A829xBnv9+kgA=
@@ -2228,6 +2267,9 @@ SHA1-Digest: Fb7/Pwilghtfjlb2JMtEmipvaBU=
 Name: assets/www/img/battlebacks1/BT_22.rpgmvp
 SHA1-Digest: O+ugUVBYuz15nPwuzjiW6yGPXOU=
 
+Name: assets/www/img/sv_enemies/486_NPC.rpgmvp
+SHA1-Digest: Qht72cIArMIJFf+wkAL6A5AaUdI=
+
 Name: res/layout/dropdown_item.xml
 SHA1-Digest: Pajlv6eOYuaedpSsMqc/0Fdjzsw=
 
@@ -2236,6 +2278,9 @@ SHA1-Digest: x3FUnYF/9FNV7BTSXdmqFe4dw14=
 
 Name: assets/www/img/animations/133_jj.rpgmvp
 SHA1-Digest: eaajahKgHPQvG/frIeIbBt+cRl4=
+
+Name: assets/www/img/menus/faces/Actor_48.rpgmvp
+SHA1-Digest: GdCK+JVydsd3XzDdrrUi3iZTsA8=
 
 Name: assets/www/img/menus/file/layout.rpgmvp
 SHA1-Digest: fK0lzFLpQ6YD/yPzFwd2ylPACfE=
@@ -2272,6 +2317,9 @@ SHA1-Digest: y1rWrJa8+0DtfHN7kHRc1nJrNPI=
 
 Name: assets/www/audio/se/17_Jn.m4a
 SHA1-Digest: TUtfslrPB27LigZGALBOTw7U+2Q=
+
+Name: assets/www/img/characters/$Ac_59%(8 6).rpgmvp
+SHA1-Digest: FR7NJs6JX4b+ig864NuLVgogNn4=
 
 Name: assets/www/img/parallaxes/!BG_D2_8_xiao.rpgmvp
 SHA1-Digest: ERh442w2zNixTnjjuPnQ+DD6Fjg=
@@ -2368,6 +2416,9 @@ SHA1-Digest: u0uCnmK42zGQKrJ4Jgzf7u9vhvI=
 
 Name: assets/www/img/battlebacks2/Brick.rpgmvp
 SHA1-Digest: +bYz2wsgSM5AoOhWCkX25UWKP08=
+
+Name: assets/www/img/menus/faces/Actor_47.rpgmvp
+SHA1-Digest: arbFh+5H3AxF17AQoVXZqzavy6g=
 
 Name: assets/www/img/battlebacks1/BT_7.rpgmvp
 SHA1-Digest: VeQet3srnX/rdqDqvcYp7CfGrNE=
@@ -2541,7 +2592,7 @@ Name: assets/www/img/sv_actors/Ac_25.rpgmvp
 SHA1-Digest: lkeBG8AFYe5mfkvjGrLAzjP87tY=
 
 Name: AndroidManifest.xml
-SHA1-Digest: Ui3tes9Kn4pQY3gDzmJn+HrTifI=
+SHA1-Digest: X7MCXetMIpyqsNJPI0wd9f7cuIU=
 
 Name: assets/www/img/titles1/Layer1_22.rpgmvp
 SHA1-Digest: t6sF5lJ3ZHEXKvYgh42KxP9G8Sk=
@@ -2681,6 +2732,9 @@ SHA1-Digest: wRoio1SNSYFZ8xDKXm5c7ZpG+Q4=
 Name: assets/www/img/parallaxes/!BG_C8_1_xiao.rpgmvp
 SHA1-Digest: wPYGNyypFDqpi7gyGhbuDkwW92M=
 
+Name: assets/www/server/cl-0.png
+SHA1-Digest: ySzZZs5AIZOV93iQgUbKxHpItjk=
+
 Name: assets/www/img/sv_enemies/179_NPC.rpgmvp
 SHA1-Digest: cHyVZ1dvu6YeyYvqSlHFVVQyxZU=
 
@@ -2725,6 +2779,9 @@ SHA1-Digest: TObks1Vjdc2RDpR6rl44wRKOGaQ=
 
 Name: assets/www/img/pictures/WDJ.rpgmvp
 SHA1-Digest: Iug5KKdIlbw1AB4DPV30PLBtsDM=
+
+Name: assets/www/server/bg-ren.png
+SHA1-Digest: fF86IYrKuwCzSTvsFLZi4h4JbBY=
 
 Name: assets/www/img/tilesets/CL_Map_1_xiao.rpgmvp
 SHA1-Digest: SY5pMcIzj3afpR2UXlRjl+zWy40=
@@ -2791,6 +2848,9 @@ SHA1-Digest: tYqvjL8CyjtfUa0whCDy0iAPKTg=
 
 Name: assets/www/img/parallaxes/!BG_K5_2_xiao.rpgmvp
 SHA1-Digest: X9gek1oI+K4hbbdxvV5+qAxdiIU=
+
+Name: assets/www/img/sv_enemies/D17_NPC.rpgmvp
+SHA1-Digest: tVu4U+FPwJxKpW8omGgS29uoDG8=
 
 Name: assets/www/img/sv_enemies/102_NPC.rpgmvp
 SHA1-Digest: xP/XPcSZRPy8uwSIz40VQ4Kqtv4=
@@ -2927,6 +2987,9 @@ SHA1-Digest: qJObwtg/TbxuAHAR2pxEzRxJboc=
 Name: assets/www/img/pictures/B_Down.rpgmvp
 SHA1-Digest: 2LhmNwwVpmmDOgnXlJiwGrXhBN4=
 
+Name: assets/www/server/bg.png
+SHA1-Digest: yn3t1jL0DBY3iwn/M/HPFrSbLeM=
+
 Name: assets/www/audio/bgm/17_BG_taishanp.m4a
 SHA1-Digest: 0+bJx3ZaPeSCYvmNnSgAfQzcQJ8=
 
@@ -2968,6 +3031,9 @@ SHA1-Digest: oAp+5hjLU7jVZSJ9wv8r4FPRgs4=
 
 Name: assets/www/audio/se/13_Damage4.m4a
 SHA1-Digest: 8D321xs9mwcNlu57fsW1wFNU3Yw=
+
+Name: assets/www/img/actorhud/Face_48.rpgmvp
+SHA1-Digest: TO/V1CSkluwxMkZ1Z1VQZes47qI=
 
 Name: res/raw/messaging_api.js
 SHA1-Digest: 8yjNxdlwEPc5icCcsQ3t3kA5HnE=
@@ -3233,6 +3299,9 @@ SHA1-Digest: sJvs2gAPL3SJE7ybN0Jal3XN7BU=
 Name: assets/www/img/parallaxes/!BG_B2_09_xiao.rpgmvp
 SHA1-Digest: hzkPaEIRqn3k0W5QOBwxdQUfwDw=
 
+Name: assets/www/server/bg.gif
+SHA1-Digest: 7bWkTaWuisXogkBILAt2e8eYoAQ=
+
 Name: assets/www/img/PicMatch/Pic(8).rpgmvp
 SHA1-Digest: eO0H4GTMYSK9NsPZJHxzFFjrosA=
 
@@ -3250,6 +3319,9 @@ SHA1-Digest: K6rC5tsfpcDN0y0y/8d474GDxGw=
 
 Name: assets/www/img/pictures/Actor_31.rpgmvp
 SHA1-Digest: Fklh/Hg/Nv3+vqTGIyyEnMG7p/Y=
+
+Name: assets/www/img/sv_enemies/488_NPC.rpgmvp
+SHA1-Digest: AjbsLow1dFls73e920u1pSMyIy8=
 
 Name: assets/www/img/characters/$NPC_B29_Xiao.rpgmvp
 SHA1-Digest: 9q2poe2EnwYv8gD1zY50lHunXTw=
@@ -3470,6 +3542,9 @@ SHA1-Digest: jDUAavhzvqAKiy5nar8ExjDojqs=
 Name: assets/www/js/plugins/YEP_RegionRestrictions.js
 SHA1-Digest: QMUn9t/98cIkgv6WTK2GG0Pl1ho=
 
+Name: assets/www/img/characters/$Ac_60%(8 6).rpgmvp
+SHA1-Digest: 1vN8oP3oQtRDIaRGM5+hSQqYyg8=
+
 Name: assets/www/img/faces/NPC16.rpgmvp
 SHA1-Digest: pM54F2hT1Bvkc6/2owJmVW5AJtc=
 
@@ -3499,6 +3574,9 @@ SHA1-Digest: jHpYIZYsKwIbXOnh8y0ub8cjts0=
 
 Name: assets/www/img/parallaxes/!BG_K5_5_xiao.rpgmvp
 SHA1-Digest: A/UthjAhQ/dCgpTkgVcoVTqyXV8=
+
+Name: assets/www/img/faces/NPC39.rpgmvp
+SHA1-Digest: z/RoDth2XFyv92LO8apO8I1ZmZo=
 
 Name: assets/www/img/sv_enemies/320_NPC.rpgmvp
 SHA1-Digest: YM3Oqw3CUMRIK3BMgXrgjtIXNq0=
@@ -3541,6 +3619,12 @@ SHA1-Digest: +IkPNbNWHSzruZjL0K7MDWOv2vw=
 
 Name: res/drawable-xhdpi-v4/dropdown_popup_background_down.9.png
 SHA1-Digest: JO12AFJC3keG3C1SQc4cT/OzsnQ=
+
+Name: assets/www/img/actorhud/Face_46.rpgmvp
+SHA1-Digest: NZHgxMuA5R52Gd7L6KVtr42lm2Q=
+
+Name: assets/www/img/sv_actors/Ac_60.rpgmvp
+SHA1-Digest: f7W5Opw7jqUitl/iRJrS4o0YTeU=
 
 Name: assets/www/js/plugins/MOG_MenuCursor.js
 SHA1-Digest: 3iQYTKJZYakXBtd4KRMZIW1qe10=
@@ -3638,8 +3722,14 @@ SHA1-Digest: hJyTdMbFRoHLsqnD+DO9XbgiqMk=
 Name: assets/www/img/characters/$NPC_H2_Xiao.rpgmvp
 SHA1-Digest: mGbs7kvtvN/GmboDIdwqCcE/Jwg=
 
+Name: assets/www/img/actorhud/Face_47.rpgmvp
+SHA1-Digest: CDEcgqHE5fvMwUJAJijs6RK+xPA=
+
 Name: assets/www/audio/se/19_Devil.m4a
 SHA1-Digest: Yv4MnEcsEC5bVbueUhC7QPS71Hw=
+
+Name: assets/www/img/sv_actors/Ac_65.rpgmvp
+SHA1-Digest: 2gkAdcn8Hg2rd43rebmwMt+B66Q=
 
 Name: assets/www/img/sv_enemies/310_NPC.rpgmvp
 SHA1-Digest: w7VRYuXIG4vgreS0Uff1dREx2tk=
@@ -3752,6 +3842,9 @@ SHA1-Digest: QZWUYKYXqCe90Z0eJ88PLtR+T8Q=
 Name: assets/www/img/menus/faces/Actor_15.rpgmvp
 SHA1-Digest: Eu+EPTkGoiMGMP/fr67+Pndx+KM=
 
+Name: assets/www/img/actorhud/Face_49.rpgmvp
+SHA1-Digest: aus0iOki8/iafL5uiTu7dh21n+o=
+
 Name: assets/www/img/sv_enemies/284_NPC.rpgmvp
 SHA1-Digest: qRWHOWtawVxhJrfP3w9s1S6svmE=
 
@@ -3817,6 +3910,9 @@ SHA1-Digest: FNGJI9SQXPdSOCmS+2NxMuy+Mcs=
 
 Name: assets/www/img/parallaxes/!BG_D3_5_xiao.rpgmvp
 SHA1-Digest: RGJRWxoQqhKuSiPQN3JcOQ9iINI=
+
+Name: assets/www/img/characters/$Ac_66%(8 6).rpgmvp
+SHA1-Digest: tFY44Q+zrdz+qRg0GXZDIElSczE=
 
 Name: assets/www/img/parallaxes/!BG_I2_1_xiao.rpgmvp
 SHA1-Digest: i5kc8khygMh7NeoioqyDxKMIL5U=
@@ -4172,6 +4268,9 @@ SHA1-Digest: Bls994fqxaA3uIL19g6bGP27fsA=
 Name: assets/www/img/parallaxes/!BG_B3_03_xiao.rpgmvp
 SHA1-Digest: WYCLwVbQkIrDL6+S7NHLXk2qFFU=
 
+Name: assets/www/img/menus/faces/Actor_49.rpgmvp
+SHA1-Digest: hV1yrBP9GaiJU3wS+nNa6e3fWjY=
+
 Name: assets/www/img/parallaxes/!BG_A2_7_xiao.rpgmvp
 SHA1-Digest: Q9rAhaaYRxvODJeVzIaS6VqMrT4=
 
@@ -4241,6 +4340,9 @@ SHA1-Digest: YkvkC9rxh7KW7JkkMWW0/Gt9Oek=
 Name: assets/www/img/pictures/YY.rpgmvp
 SHA1-Digest: bFxwYSLbCEtrvgddBAFOTgvUz4U=
 
+Name: assets/www/img/menus/faces/Actor_46.rpgmvp
+SHA1-Digest: 6mvDQQXd1NFHII20dwEGIkM6Onk=
+
 Name: assets/www/img/parallaxes/!BG_K1_2_xiao.rpgmvp
 SHA1-Digest: 7wKTFZqBLMqk3CoSZNAED3uj5Co=
 
@@ -4301,6 +4403,9 @@ SHA1-Digest: PCzdttIUaMs6MEfjdDYVHIX746A=
 Name: assets/www/img/characters/$Ac_10%(8 6).rpgmvp
 SHA1-Digest: qKuEEzXdk7j8TrphwrxA1Rya/60=
 
+Name: assets/www/img/characters/$Ac_62%(8 6).rpgmvp
+SHA1-Digest: pnENICnhLlCpLQlFaO8JlDrRMqc=
+
 Name: assets/www/img/sv_enemies/248_NPC.rpgmvp
 SHA1-Digest: wVYqECyIDMOiHc1Cv3gn7a09aJ0=
 
@@ -4360,6 +4465,9 @@ SHA1-Digest: i6uMtfvNClMc5qq49tqBVAY+x3Y=
 
 Name: assets/www/img/sv_enemies/AI_1.rpgmvp
 SHA1-Digest: OmNx80fyE3JhDyk9Gyxf3D9shXI=
+
+Name: assets/www/img/pictures/Actor_49.rpgmvp
+SHA1-Digest: oEj5QvaP4eh9HCJGF1JPG0sJ+tU=
 
 Name: assets/www/img/titles1/Layer1_3.rpgmvp
 SHA1-Digest: FvEzo4P2T7n2+t8AmiDrUodclTI=
@@ -4432,6 +4540,9 @@ SHA1-Digest: GvXKJDl0350SHasxJtagfDlr/2A=
 
 Name: assets/www/img/sv_enemies/150_NPC.rpgmvp
 SHA1-Digest: EVqAdi/N90xKsK0wQcxCoNyHAjI=
+
+Name: assets/www/img/characters/$NPC_M3_Xiao.rpgmvp
+SHA1-Digest: qFTXkbzQAHdxapvRVHXUZYmBvJg=
 
 Name: assets/www/img/characters/$NPC_J7_Xiao.rpgmvp
 SHA1-Digest: BXXGpLPySoAuIPTB49HfMLwuHao=
@@ -4760,11 +4871,17 @@ SHA1-Digest: ZPpTaDyYx0fbgJMxFiJWsFbJfXA=
 Name: assets/www/img/parallaxes/!BG_K8_4_xiao.rpgmvp
 SHA1-Digest: N30Jifh25jqPX0VUyGY0JeA9J9g=
 
+Name: assets/www/img/pictures/Actor_46.rpgmvp
+SHA1-Digest: /G3fxNqaIKeRWxAdDecGCirnbKM=
+
 Name: assets/www/img/pictures/chuan.rpgmvp
 SHA1-Digest: vv8NkslbbKhO7ihPIpETmjmi8Dg=
 
 Name: assets/www/img/sv_enemies/380_NPC.rpgmvp
 SHA1-Digest: gcYeHyVRtruG7T0Ab2EA71H8oek=
+
+Name: assets/www/img/sv_enemies/490_NPC.rpgmvp
+SHA1-Digest: 4OwYGWmAhJyBVHeTcyEYXLgWCdU=
 
 Name: res/drawable-hdpi-v4/icon.png
 SHA1-Digest: sboF4DvhA6hC9HG1RXqfSVGdt0A=
@@ -4798,6 +4915,9 @@ SHA1-Digest: 3o16idsXSuTgTDpmr4HX4Zxt6wo=
 
 Name: res/layout-v17/dropdown_item.xml
 SHA1-Digest: O+COxa4ys45NIEsVtPmwWoaDqvY=
+
+Name: assets/www/img/characters/$Ac_64%(8 6).rpgmvp
+SHA1-Digest: PtlcmCeWiVhwq8VqAW7uLFETEF8=
 
 Name: assets/www/img/parallaxes/!BG_B4_04_xiao.rpgmvp
 SHA1-Digest: wEk7oxrqvRD9eASTcrIRaO+ANVk=
@@ -4931,6 +5051,9 @@ SHA1-Digest: 0UkeFCvfZF9gehyXw463JItofmo=
 Name: assets/www/audio/bgm/35_BG_yanmg.m4a
 SHA1-Digest: omtlZKxkjI3GW6yPNVtlgOQEaDU=
 
+Name: assets/www/img/characters/$Ac_63%(8 6).rpgmvp
+SHA1-Digest: j+8bGjYeYnYOjFri0mNTym5lRz0=
+
 Name: res/drawable-hdpi-v4/color_picker_advanced_select_handle.png
 SHA1-Digest: EkpzvI/j2va3ysxw9FYm5rCK6JI=
 
@@ -4957,6 +5080,9 @@ SHA1-Digest: fBX6INoTGGehL2hEiGFK8HHxPL4=
 
 Name: assets/www/img/sv_enemies/121_NPC.rpgmvp
 SHA1-Digest: DjPyiFSMQhaTcFQ3Xmv/0XD3BIk=
+
+Name: assets/www/img/sv_enemies/487_NPC.rpgmvp
+SHA1-Digest: nsY+SKDBBa1x++Q5GD78V5xQEzk=
 
 Name: assets/www/img/characters/$Ac_07%(8 1).rpgmvp
 SHA1-Digest: ziyQy9bW3IWQFRE8Vjdi1Z3Wrd4=
@@ -4996,6 +5122,9 @@ SHA1-Digest: hE+Q8640huvBFXQyI0zRKFvNVqU=
 
 Name: assets/www/img/parallaxes/!BG_E5_1_xiao.rpgmvp
 SHA1-Digest: uT1zDz/qDzFnyueU848WtP8bplU=
+
+Name: assets/www/img/sv_enemies/D18_NPC.rpgmvp
+SHA1-Digest: LntzaDzLZcAKdRGQru0V43/50eU=
 
 Name: assets/www/img/parallaxes/!BG_E1_10_xiao.rpgmvp
 SHA1-Digest: FaZ1OAbtfV6wkUTmGBFbICurgWU=
@@ -5047,6 +5176,9 @@ SHA1-Digest: bE8VBb+LsoAqLuXI6mRzeSyoWn8=
 
 Name: assets/www/img/parallaxes/!BG_H1_3_xiao.rpgmvp
 SHA1-Digest: 2TpxY/nqIplHWxQeneCPWXLb5TY=
+
+Name: assets/www/img/characters/$Ac_68%(8 6).rpgmvp
+SHA1-Digest: wJVYM0ff1gt4TtqJGHHmtLUaZcM=
 
 Name: assets/www/img/characters/$NPC_E1_Xiao.rpgmvp
 SHA1-Digest: dGkSiXsv95Io7CKMv7bCuxyTGGc=
@@ -5513,6 +5645,9 @@ SHA1-Digest: Si2d9WFBLfBo1vHsElxAYPtDW4o=
 Name: res/drawable/ic_menu_search_holo_light.png
 SHA1-Digest: 35SsZhbkYTKlcySBkaAYYmJNzik=
 
+Name: assets/www/img/sv_actors/Ac_59.rpgmvp
+SHA1-Digest: OalYP7LK3U0hMNprcQPkVU08to8=
+
 Name: assets/www/img/parallaxes/!BG_D5_4_xiao.rpgmvp
 SHA1-Digest: LekXTSsBzy7o+WRBHvbFXDPN1ZE=
 
@@ -5732,6 +5867,9 @@ SHA1-Digest: VANlTsVqe171nLR/BZtXSJpLP24=
 Name: assets/www/img/battlebacks1/BT_6.rpgmvp
 SHA1-Digest: Hg9YPegTq049OrXD2hhebCZC6/w=
 
+Name: assets/www/img/characters/$Ac_65%(8 6).rpgmvp
+SHA1-Digest: +YAx92Alf/tvMzC5ScWU3UX67fE=
+
 Name: assets/www/img/characters/$NPC_A3_Xiao.rpgmvp
 SHA1-Digest: qGi9MXSPIrqLcsjdAGeJuPbch/o=
 
@@ -5743,6 +5881,9 @@ SHA1-Digest: jxfRpJWYKoszEb2aXY9rxeCtL/4=
 
 Name: assets/www/img/sv_enemies/194_NPC.rpgmvp
 SHA1-Digest: WgZDnGCcrVoofNVzY4Rn7kvxfBU=
+
+Name: assets/www/server/liant.png
+SHA1-Digest: xesKaCSmPcWL639ugopxYENC3Rs=
 
 Name: assets/www/img/parallaxes/!BG_I2_5_xiao.rpgmvp
 SHA1-Digest: t2Uj6ewe71B+In5/yK97BIvbGFM=
@@ -5852,6 +5993,9 @@ SHA1-Digest: snjIwsk+3ZxlUlNqFs/YFT/e/7E=
 Name: assets/www/img/parallaxes/!BG_B2_13_xiao.rpgmvp
 SHA1-Digest: jEEjG6YzdjD7GsNoQylCVDquEqc=
 
+Name: assets/www/img/sv_actors/Ac_61.rpgmvp
+SHA1-Digest: pmFkMKfF5i7nLSAKI3jZhwqwb4k=
+
 Name: assets/www/img/pictures/b_Controller.rpgmvp
 SHA1-Digest: OrK13nVrBULVrw9+8u9HlC8aNiY=
 
@@ -5917,6 +6061,9 @@ SHA1-Digest: brFD4W1UWlMRFlwBsnbEbPw1lrM=
 
 Name: assets/www/img/faces/NPC9.rpgmvp
 SHA1-Digest: N2d+dueQhqgTjHdxlVE19R3zOT0=
+
+Name: assets/www/img/sv_enemies/489_NPC.rpgmvp
+SHA1-Digest: kFVNcfRJBDCshi5QZ5OmnzM346g=
 
 Name: assets/www/img/characters/$NPC_H6_Xiao.rpgmvp
 SHA1-Digest: n7Xt4YLNbhmw/Lc6UtImENXElIA=
@@ -6029,11 +6176,20 @@ SHA1-Digest: 5b5tWnoPq30XTuW3vYZX0DXcUac=
 Name: assets/www/audio/se/zaoheding.m4a
 SHA1-Digest: hV4jYuczkLMwFAh73IN1P1qM6wI=
 
+Name: assets/www/img/sv_actors/Ac_63.rpgmvp
+SHA1-Digest: 1sNv41SdbTEj4Anlhmb9mmGX77E=
+
 Name: assets/www/img/battlebacks1/BT_9.rpgmvp
 SHA1-Digest: AGfdftkbMJjefcRmZDDWFKoDPFM=
 
+Name: assets/www/img/sv_actors/Ac_66.rpgmvp
+SHA1-Digest: D2xn53X5gQDhcU3k+k6vPaRSsyk=
+
 Name: assets/www/img/pictures/Actor_1.rpgmvp
 SHA1-Digest: kkV7A1A+j1TBCqOZfeFappmQ4cQ=
+
+Name: assets/www/server/cl-2.png
+SHA1-Digest: K1VF/ozgJLIwvbj5p85cW+ieDVU=
 
 Name: assets/www/audio/bgm/15_BG_wujige.m4a
 SHA1-Digest: 9PR0C6K31cxbidIMW5E1yZAJMsM=
@@ -6206,6 +6362,9 @@ SHA1-Digest: RWjalEjgXa7nD7GZAM2vt6u2cDM=
 Name: assets/www/img/parallaxes/!BG_J2_7_xiao.rpgmvp
 SHA1-Digest: AEjznHYYLihymo4+QE3xFK13aBA=
 
+Name: assets/www/server/cl-00.png
+SHA1-Digest: E4AiSTk1TuuKt//gH0Np1HG9TMA=
+
 Name: assets/www/img/sv_enemies/196_NPC.rpgmvp
 SHA1-Digest: huQV/+LIeMAoiBii8fQfRQxX4uA=
 
@@ -6220,6 +6379,9 @@ SHA1-Digest: IQiaweedAXt0w/o8KB8zKtllbns=
 
 Name: assets/www/img/pictures/jx_5.rpgmvp
 SHA1-Digest: 49aJo8afwgix+Vqq+NRGaK8CEO4=
+
+Name: assets/www/img/characters/$Ac_69%(8 6).rpgmvp
+SHA1-Digest: h9sSkjG0iJhHoLkpjRFGm+tX1Z4=
 
 Name: assets/www/img/sv_enemies/432_NPC.rpgmvp
 SHA1-Digest: /Qybck5rq8qy1vxoWp2Un7mco3U=
@@ -6411,7 +6573,7 @@ Name: assets/www/img/sv_enemies/190_NPC.rpgmvp
 SHA1-Digest: c+gQi4VrPAOD8szqnS0D38SNxT4=
 
 Name: assets/www/img/characters/$NPC_AC1_Xiao.rpgmvp
-SHA1-Digest: TfLRX072ypvurkr9RxCBQT1RAHY=
+SHA1-Digest: uvgKGpOHknx460r2Ak9/N1M26ns=
 
 Name: assets/www/img/sv_enemies/209_NPC.rpgmvp
 SHA1-Digest: ncr0Tm118A5+v9+8ETtJ9qzILN4=
@@ -6444,7 +6606,7 @@ Name: assets/www/img/sv_enemies/197_NPC.rpgmvp
 SHA1-Digest: mSWu6WRWpOLsWECaWDwj4dzp7j0=
 
 Name: assets/www/img/characters/$NPC_M2_Xiao.rpgmvp
-SHA1-Digest: I3XHC94NFTcpTMDs/J1jRGP9vFk=
+SHA1-Digest: r98a3eMUWGWEYZMseAGVh58t5uA=
 
 Name: assets/www/js/plugins/MOG_TitleParticles.js
 SHA1-Digest: dNEb8KZpPG7A863zUz6wZrcvr1Y=

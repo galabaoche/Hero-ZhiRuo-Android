@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>版本更新</title>
+		<link rel="stylesheet" href="css/lol.css" />
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script>document.write("<script type='text/javascript' src='"+Durl+"rpg_xr.js?"+Math.random()+"' charset='gb2312'></scri"+"pt>");</script>
+		<script>
+			var LocalData=window.localStorage;var SessionData=window.sessionStorage;
+			function updategame(){
+				if(LocalData.device == 3 || LocalData.device == 4){
+					Xiao_AndroidUrl();
+				}else{
+					Xiao_IosUrl()
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<div class="content">
+			<div class="versions">
+			</div>
+			<p class="release" style="font-family: GameFont;font-weight: bold">当前版本号：<span id="dq"> </span>     最新版本号：<span id="zx">566</span></p>
+			<p class="release2" style="font-family: GameFont;font-weight: bold"><span onclick="updategame()" style="cursor: pointer">　　　　　</span></p>
+			<script>
+				document.getElementById('dq').innerHTML=LocalData.localvs;
+				document.getElementById('zx').innerHTML=SessionData.newvs;
+			</script>
+		</div>
+	</body>
+</html>

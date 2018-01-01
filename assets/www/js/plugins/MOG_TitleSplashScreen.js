@@ -52,7 +52,17 @@
 //=============================================================================
 // ** PLUGIN PARAMETERS
 //=============================================================================
-　　var Imported = Imported || {};
+if(SessionData.newvs!=undefined && parseInt(SessionData.newvs)>parseInt(LocalData.localvs)){
+	window.location.href="update.html"
+}else{
+	switch (parseInt(SessionData.opengame)) {
+		case 1:console.log("游戏状态：联网中");break;
+		case 2:console.log("游戏状态：离线中");break;
+		case 3:console.log("游戏状态：服务器维护中");window.location.href="server.html";break;
+		default:console.log("游戏状态：错误！");}
+}
+
+　　　　　　　　var Imported = Imported || {};
 　　Imported.MOG_TitleSplashScreen = true;
 　　var Moghunter = Moghunter || {}; 
 
