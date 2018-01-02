@@ -4,3 +4,8 @@
 
 /**/.vs
 /.vs/config/applicationhost.config
+/**/packages
+/**/bin
+/**/obj/Debug
+/**/packages.config
+*.user
